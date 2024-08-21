@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">Not applicable for this project</string>
+    <string name="firebase_database_url" translatable="false">Not applicable for this project</string>
+    <string name="gcm_defaultSenderId" translatable="false">Not applicable for this project</string>
+    <string name="google_api_key" translatable="false">AIzaSyBpLLkxE4dKHs_62S7VrqvvE77vDg7OD1g</string>
+    <string name="google_app_id" translatable="false">1:440571244277:android:ba4f5685efabd177509fbc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">Not applicable for this project</string>
+    <string name="google_storage_bucket" translatable="false">findjobapp-8a8f9.appspot.com</string>
+    <string name="project_id" translatable="false">findjobapp-8a8f9</string>
+</resources>
